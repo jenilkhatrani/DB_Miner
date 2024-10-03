@@ -1,0 +1,124 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "author": "Steve Jobs",
+      "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+      "category": "Motivational"
+    },
+    {
+      "id": 2,
+      "author": "Walt Disney",
+      "quote": "The way to get started is to quit talking and begin doing.",
+      "category": "Motivational"
+    },
+    {
+      "id": 3,
+      "author": "Nelson Mandela",
+      "quote": "It always seems impossible until it’s done.",
+      "category": "Motivational"
+    },
+    {
+      "id": 4,
+      "author": "Mark Twain",
+      "quote": "The secret of getting ahead is getting started.",
+      "category": "Motivational"
+    },
+    {
+      "id": 5,
+      "author": "Confucius",
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "category": "Motivational"
+    },
+    {
+      "id": 6,
+      "author": "Albert Einstein",
+      "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "category": "Motivational"
+    },
+    {
+      "id": 7,
+      "author": "Mahatma Gandhi",
+      "quote": "Be the change that you wish to see in the world.",
+      "category": "Motivational"
+    },
+    {
+      "id": 8,
+      "author": "Lao Tzu",
+      "quote": "The journey of a thousand miles begins with one step.",
+      "category": "Motivational"
+    },
+    {
+      "id": 9,
+      "author": "Bruce Lee",
+      "quote": "Mistakes are always forgivable, if one has the courage to admit them.",
+      "category": "Motivational"
+    },
+    {
+      "id": 10,
+      "author": "Henry Ford",
+      "quote": "Whether you think you can, or you think you can't – you're right.",
+      "category": "Motivational"
+    },
+    {
+      "id": 11,
+      "author": "Helen Keller",
+      "quote": "The best and most beautiful things in the world cannot be seen or even touched — they must be felt with the heart.",
+      "category": "Love"
+    },
+    {
+      "id": 12,
+      "author": "Mother Teresa",
+      "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "category": "Love"
+    },
+    {
+      "id": 13,
+      "author": "Dr. Seuss",
+      "quote": "Don't cry because it's over, smile because it happened.",
+      "category": "Love"
+    },
+    {
+      "id": 14,
+      "author": "Maya Angelou",
+      "quote": "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.",
+      "category": "Love"
+    },
+    {
+      "id": 15,
+      "author": "William Shakespeare",
+      "quote": "Love all, trust a few, do wrong to none.",
+      "category": "Love"
+    },
+    {
+      "id": 16,
+      "author": "Lao Tzu",
+      "quote": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+      "category": "Love"
+    },
+    {
+      "id": 17,
+      "author": "Leo Tolstoy",
+      "quote": "All, everything that I understand, I only understand because I love.",
+      "category": "Love"
+    },
+    {
+      "id": 18,
+      "author": "Victor Hugo",
+      "quote": "The supreme happiness of life consists in the conviction that one is loved.",
+      "category": "Love"
+    },
+    {
+      "id": 19,
+      "author": "Oscar Wilde",
+      "quote": "Who, being loved, is poor?",
+      "category": "Love"
+    },
+    {
+      "id": 20,
+      "author": "Audrey Hepburn",
+      "quote": "The best thing to hold onto in life is each other.",
+      "category": "Love"
+    }
+  ]
+}
